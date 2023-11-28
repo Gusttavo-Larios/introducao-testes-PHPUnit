@@ -8,6 +8,7 @@
   </testsuites>
   <logging>
     <testdoxText outputFile="testes-executados.txt"/>
+    <testdoxHtml outputFile="testes-executados.html" />
   </logging>
   <source/>
 </phpunit>
